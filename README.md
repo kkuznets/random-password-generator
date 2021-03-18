@@ -14,7 +14,7 @@
 
 
 
-# Random Password Generator <!-- omit in toc -->
+# [Random Password Generator](https://kkuznets.github.io/random-password-generator/) <!-- omit in toc -->
 
 > A simple lightweight web application that enables users to generate random passwords of desired length and strength.
 
